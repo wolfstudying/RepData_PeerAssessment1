@@ -3,6 +3,7 @@
 library(xlsx)
 library(ggplot2)
 library(scales)
+
 library(Hmisc)
 setwd("F:/R_Coursera/05_ReproducibleResearch")
 activity <- read.csv("activity.csv")
