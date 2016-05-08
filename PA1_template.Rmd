@@ -4,7 +4,7 @@ author: "wolfstudying"
 date: "Sunday, May 08, 2016"
 output: html_document
 ---
-Download the data from "https://github.com/rdpeng/RepData_PeerAssessment1".Now I think activity.csv exists your work dectory already
+Download the data from "https://github.com/rdpeng/RepData_PeerAssessment1". Now I think activity.csv exists your work dectory already
 1.Loading the data and preprocessing the data
 
 ```{r}
